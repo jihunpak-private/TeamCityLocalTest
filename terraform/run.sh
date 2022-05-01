@@ -16,6 +16,7 @@ terraform init
 terraform validate
 terraform plan
 terraform apply -auto-approve
+terraform destroy -auto-approve
 
 # export ARM_SUBSCRIPTION_ID="9a8e1a59-ab84-49af-a717-7f2582116098"
 # #export ARM_CLIENT_ID="d107e0b1-ff40-4628-992a-4b9b1662851c"
