@@ -11,5 +11,3 @@ ls -al
 python setup.py bdist_wheel
 
 ls -al
-
-pip3 freeze > requirements.txt
