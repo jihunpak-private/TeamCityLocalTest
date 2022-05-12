@@ -1,8 +1,8 @@
-import random
+import numpy as np
 
 def test(a, b):
     result = a + b
     print("Hello, jihun")
     print(result)
-    print(random.random())
+    print(np.random.rand(5))
 
