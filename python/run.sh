@@ -6,10 +6,10 @@ virtualenv .venv
 
 source .venv/bin/activate
 
-ls
+ls -al
 
 python setup.py bdist_wheel
 
-ls
+ls -al
 
 pip3 freeze > requirements.txt
