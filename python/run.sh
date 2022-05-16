@@ -8,6 +8,7 @@ source .venv/bin/activate
 
 ls -al
 
-python setup.py bdist_wheel
+#python setup.py bdist_wheel
+python -m twine upload dist/* -u ARTIFACTORY_USER_NAME -p ARTIFACTORY_USER_PWD
 
 ls -al

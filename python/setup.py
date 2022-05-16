@@ -5,7 +5,7 @@ from pip._internal.req import parse_requirements
 
 setup(
     name="jihun-test",
-    version="1.0.0",
+    version="1.0.2",
     author="jihun",
     author_email="pj522h@gmail.com",
     description="Simple Packaging by Python",
