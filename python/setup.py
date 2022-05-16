@@ -4,7 +4,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="jihun-test",
-    version="1.1.2",
+    version="1.1.3",
     author="jihun",
     author_email="pj522h@gmail.com",
     description="Simple Packaging by Python",
