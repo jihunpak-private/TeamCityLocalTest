@@ -1,0 +1,5 @@
+FROM ubuntu:20.04
+WORKDIR /home/docker-app/api
+RUN apt update && apt-get install python3 python3-pip -y
+ADD . .
+RUN pip3 install jihun-test
