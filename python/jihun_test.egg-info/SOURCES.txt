@@ -1,8 +1,0 @@
-setup.py
-function/__init__.py
-function/test.py
-jihun_test.egg-info/PKG-INFO
-jihun_test.egg-info/SOURCES.txt
-jihun_test.egg-info/dependency_links.txt
-jihun_test.egg-info/requires.txt
-jihun_test.egg-info/top_level.txt

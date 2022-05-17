@@ -1,5 +1,6 @@
 import numpy as np
 
+
 def test(a, b):
     result = a + b
     print("Hello, jihun")
@@ -10,5 +11,5 @@ def test(a, b):
 
 
 if __name__ == "__main__":
-    res = test(2,3)
+    res = test(2, 3)
     print(res)
