@@ -1,0 +1,15 @@
+Metadata-Version: 1.2
+Name: jihun-test
+Version: 1.1.8
+Summary: Simple Packaging by Python
+Home-page: UNKNOWN
+Author: jihun
+Author-email: pj522h@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Keywords: test,package
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
