@@ -3,7 +3,7 @@ from setuptools import find_packages, setup
 
 setup(
     name="jihun-test",
-    version="1.2.0",
+    version="1.2.1",
     author="jihun",
     author_email="pj522h@gmail.com",
     description="Simple Packaging by Python, jihun",
