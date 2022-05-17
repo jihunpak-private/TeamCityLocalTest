@@ -9,7 +9,7 @@ setup(
     description="Simple Packaging by Python",
     keywords=['test','package'],
     install_requires=[
-    'numpy==1.22.3',
+    'numpy==1.20.0',
     'bleach==5.0.0',
     'certifi==2021.10.8',
     'cffi==1.15.0',
